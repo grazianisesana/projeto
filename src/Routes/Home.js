@@ -29,6 +29,7 @@ export default class Login extends Component {
 
                             <Image style={styles.imglogo} source={require('../../imagens/logo.png')} />
 
+                            <Text>Graziani</Text>
                             <TextInput
                                 blurOnSubmit={true}
                                 style={styles.Texto}
